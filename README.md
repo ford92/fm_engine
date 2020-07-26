@@ -23,7 +23,7 @@ The league table:
 
 Top scorers of the season:
 
-![image](Top Scorers.jpg)
+![image](scorers.jpg)
 
 
 Players with the most shots:
