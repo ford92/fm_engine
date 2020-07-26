@@ -1,9 +1,11 @@
 # fm_engine
 Football match engine. Simulates a game between two teams chosen by user.
 
-Program initially prompts user to select two teams to simulate a game:
+Program runs a simulation through an entire Premier League season with each team playing each other twice.
+Program outputs results of each game:
 
-![image](initial.jpg)
+![image](game1.jpg)
+![image](game2.jpg)
 
 
 The outcome of the match is determined by the players' attributes for passing/shooting/dribbling/tackling and goalkeeping ability. 
@@ -12,15 +14,32 @@ The player data is shown below.:
 
 ![image](player_data.jpg)
 
-The program will display outcome of passess/dribbles/shots and whether or not it was successful, whilst also updating the players global statistics.
-If a goal is scored, the scoreline will update and record the goalscorer
+Once the season has been completed, the program will offline.plot five .html files to show:
 
-![image](match.jpg)
+The league table:
+
+![image](table.jpg)
 
 
-At the end of program, the final score will be printed and output the players final statistics such as:
-goals, shots, pass completion, dribbles completion
+Top scorers of the season:
 
-![image](final_stats.jpg)
+![image](Top Scorers.jpg)
+
+
+Players with the most shots:
+
+![image](shots.jpg)
+
+
+Players with the most passes:
+
+![image](passes.jpg)
+
+
+Players with the most dribbles:
+
+![image](dribbles.jpg)
+
+
 
 
