@@ -2,7 +2,7 @@
 Football match engine. Simulates every game in the current premier league season.
 
 Program runs a simulation through an entire Premier League season with each team playing each other twice.
-Program outputs results of each game:
+Program outputs results of each game and goalscorers:
 
 ![image](game1.jpg)
 ![image](game2.jpg)
