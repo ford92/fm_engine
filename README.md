@@ -1,4 +1,6 @@
 # fm_engine
+See season branch for whole season simulator.
+
 Football match engine. Simulates a game between two teams chosen by user.
 
 Program initially prompts user to select two teams to simulate a game:
