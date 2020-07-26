@@ -1,5 +1,5 @@
 # fm_season
-Football match engine. Simulates a game between two teams chosen by user.
+Football match engine. Simulates every game in the current premier league season.
 
 Program runs a simulation through an entire Premier League season with each team playing each other twice.
 Program outputs results of each game:
